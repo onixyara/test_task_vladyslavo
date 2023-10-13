@@ -7,4 +7,9 @@
 
 # Your Documentation
 
-Goes here :)
+Build:
+Solution created and tested on MacOS Macbook with M1 apple silicon but should work everywhere.
+Simple make file created. To build project just type make in console in root folder. After run executable with ./myapp.
+It just simpliest solution, that created with basic networking primitives. I tryied to apply SOLID principles when writing this application.
+There are lot area of improvement, it can be rewrited without classes or even in C lang to work faster and better. Or we can change direction
+and rewrite everything using boost::asio and create a lot of new functionality.
